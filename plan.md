@@ -1,6 +1,6 @@
 crypto-lakehouse-prod/
 ├── bronze/
-│   ├── binance/trades/year=2026/month=08/day=20/
+│   ├── binance/trades/year=2026/month=08/day=01/
 │   ├── fred/rates/
 │   └── sentiment/news/
 ├── silver/
